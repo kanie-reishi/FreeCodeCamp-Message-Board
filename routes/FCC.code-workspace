@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "boilerplate-project-messageboard",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
